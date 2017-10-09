@@ -1,0 +1,2 @@
+# Blogsafelink
+safelink
